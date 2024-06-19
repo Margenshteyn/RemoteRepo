@@ -1,9 +1,6 @@
 Hello world!
 12345
 Good bye!
-<<<<<<< HEAD
-another line from user1
-=======
 line from user2
->>>>>>> 0d20b97b16898f09af40c350b8c1870f1bb45fd5
  Line from user1
+line from user1 - lesson about rebase
